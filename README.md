@@ -1,11 +1,10 @@
-### Hi there 👋
+### Hey everybody 👋
 
-- 🔭 I’m currently working on Supply Assistant
-- 🌱 I’m currently learning Business Intelligence and Pytohn
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: I like too much to play video games and walk listening music
+- 😃 I'm new to the world of programming, but I've been practicing Python whenever I can
+- 🔭 I currently work as a Supply Assistant
+- 🌱 I'm studying and learning Business Intelligence and Python
+- 👯 I seek to collaborate in improvement or innovation projects
+- ⚡ Fun fact: I really like to play video games and listen to music
 - 📫 How to reach me: 
 <div>
 <a href="https://www.linkedin.com/in/eduardo-nt" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
